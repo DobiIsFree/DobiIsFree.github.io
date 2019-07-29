@@ -1,6 +1,6 @@
 ---
-title: Third Post
-author: Chris
+title: 2019.08.02
+author: San Francisco
 layout: post
 icon: fa-lightbulb
 icon-style: regular

@@ -1,6 +1,6 @@
 ---
-title: Second Post
-author: Chris
+title: 2019.08.01
+author: San Francisco
 layout: post
 ---
 

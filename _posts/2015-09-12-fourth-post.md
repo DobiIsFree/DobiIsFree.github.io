@@ -1,6 +1,6 @@
 ---
-title: Fourth Post
-author: Chris
+title: 2019.08.03
+author: San Francisco
 layout: post
 ---
 Lorem ipsum dolor sit amet, harum malorum nominavi mea et. Atqui maluisset duo cu, summo dignissim voluptatum sit ut. Ad quo quidam delicatissimi. Cum nihil noster patrioque id. Per at maiorum definitiones. Cu vix sint aliquip. No duo alia sale persecuti.
