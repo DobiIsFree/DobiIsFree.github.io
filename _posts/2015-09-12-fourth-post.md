@@ -1,6 +1,0 @@
----
-title: 2019.08.03
-author: San Francisco
-layout: post
----
-51 Conference
