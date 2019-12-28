@@ -1,5 +1,5 @@
 permalink: /:year:month:day/:title
-url: https://github.com/DobiIsFree/DobiIsFree.github.io.git
+url: https://DobiIsFree.github.io/
 baseurl: /project
 
 # variables
