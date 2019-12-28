@@ -1,9 +1,9 @@
 permalink: /:year:month:day/:title
-url: #Your url here
+url: https://github.com/DobiIsFree/DobiIsFree.github.io.git
 baseurl: /project
 
 # variables
-name: Your Site Name
+name: HOHO^.^
 description: Your description here
 google_verification: null
 
