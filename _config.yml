@@ -1,9 +1,9 @@
 permalink: /:year:month:day/:title
-url: #Your url here
+url: https://DobiIsFree.github.io/
 baseurl: /project
 
 # variables
-name: Your Site Name
+name: HOHO^.^
 description: Your description here
 google_verification: null
 
@@ -23,3 +23,7 @@ kramdown:
   input: GFM
   syntax_highlighter_opts:
     disable : true
+
+# Disqus
+discus-identifier: DobiIsFree
+
