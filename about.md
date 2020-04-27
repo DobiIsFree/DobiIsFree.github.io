@@ -4,6 +4,6 @@ layout: home
 permalink: /
 ---
 
-# Lorem ipsum
+## about
 
-???
+pages..
