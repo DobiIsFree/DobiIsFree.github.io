@@ -14,4 +14,6 @@ style: light # dark (default) or light
 plugins:
   - jekyll-seo-tag
 
-remote_theme : https://github.com/DobiIsFree/DobiIsFree.github.io.git/jekyll-theme-console
+remote_theme : DobiIsFree/jekyll-theme-console
+
+theme: jekyll-theme-console
