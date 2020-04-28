@@ -1,9 +1,10 @@
 ---
-title: /index
+title: /HOHO^.^
 layout: home
 permalink: /index
 ---
 
-# Lorem ipsum
+# Welcome
 
-???
+- [ 2020-04-28 ] 가나다라마바사
+

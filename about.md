@@ -1,9 +1,11 @@
 ---
-title: /page1
+title: /contact
 layout: page
 permalink: /page
 ---
 
-## about
+## Get in touch?
 
-pages..
+name : 
+e-mail : 
+message : 
