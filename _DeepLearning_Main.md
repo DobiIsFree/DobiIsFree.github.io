@@ -1,6 +1,6 @@
 ---
 title: /DeepLearning
-layout: post
+layout: page
 permalink: /DeepLearning/Main
 ---
 

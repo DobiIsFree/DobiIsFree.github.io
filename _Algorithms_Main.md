@@ -1,6 +1,6 @@
 ---
 title: /Algorithms
-layout: post
+layout: page
 permalink: /Algorithms/Main
 ---
 
