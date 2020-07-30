@@ -1,5 +1,5 @@
 ---
-title: /algorithms
+title: /Algorithms
 layout: post
 permalink: /Algorithms/SelectionSort
 ---
