@@ -1,6 +1,6 @@
 ---
 title: /Bakjoon
-layout: page
+layout: post
 permalink: /Bakjoon/Main
 ---
 
