@@ -4,7 +4,7 @@
 
 header_pages:
   - index.md
-  - 2019.md
+  # - 2019.md
   - 2020.md
   - about.md
 
