@@ -1,7 +1,6 @@
 ---
 title: /HOHO^.^
 layout: home
-permalink: /HOHO
 ---
 
 # Welcome
