@@ -14,8 +14,9 @@ permalink: /Algorithms/BubbleSort
 컴퓨터 내부 연산이 가장 비효율적으로 늘어나
 
 시간 복잡도는 선택정렬과 동일하다
+<br/>
 
-```
+```c
 #include<stdio.h>
 
 int main(void){

@@ -7,7 +7,7 @@ permalink: /Algorithms/SelectionSort
 ## SelectionSort  
 <br/>
   
-~~~
+```c
 #include<stdio.h>
 
 int main(void){
@@ -32,7 +32,7 @@ int main(void){
     }
     return 0;
 }
-~~~
+```
 
 ## 시간복잡도
 

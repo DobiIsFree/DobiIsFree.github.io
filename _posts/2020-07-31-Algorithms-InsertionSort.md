@@ -11,8 +11,9 @@ permalink: /Algorithms/InsertionSort
 범위를 확장하면서 정렬 진행 
 --> 최악의 경우 시간복잡도 O(N^2)
 --> 최선의 경우 : 이미 정렬이 어느정도 되어있는 상태
+<br/>
 
-```
+```c
 #include<stdio.h>
 
 int main(void){
