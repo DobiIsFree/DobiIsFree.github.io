@@ -5,7 +5,8 @@ permalink: /Algorithms/BubbleSort
 ---
 
 # BubbleSort  
-
+  
+  
 옆에 있는 값과 비교해서 더 작은 값을 앞으로 보내기
 
 반복적으로 두 숫자를 비교해서 더 작은 수를 앞으로 보낸다.

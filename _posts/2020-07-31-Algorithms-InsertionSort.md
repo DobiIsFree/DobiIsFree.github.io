@@ -5,7 +5,8 @@ permalink: /Algorithms/InsertionSort
 ---
 
 ## InsertionSort  
-
+  
+  
 각 숫자를 적절한 위치에 삽입
 범위를 확장하면서 정렬 진행 
 --> 최악의 경우 시간복잡도 O(N^2)
