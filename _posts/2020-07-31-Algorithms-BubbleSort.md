@@ -6,7 +6,6 @@ permalink: /Algorithms/BubbleSort
 
 2020.7.31
 <br/>
-<br/>
 
 # BubbleSort  
 <br/>

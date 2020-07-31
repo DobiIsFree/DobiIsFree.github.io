@@ -6,7 +6,6 @@ permalink: /Algorithms/InsertionSort
 
 2020.7.31
 <br/>
-<br/>
 
 ## InsertionSort 
 <br/>

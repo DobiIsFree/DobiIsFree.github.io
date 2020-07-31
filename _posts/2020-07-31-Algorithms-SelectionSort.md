@@ -6,7 +6,6 @@ permalink: /Algorithms/SelectionSort
 
 2020.7.31
 <br/>
-<br/>
 
 ## SelectionSort  
 <br/>
