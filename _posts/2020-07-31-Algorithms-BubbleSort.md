@@ -4,6 +4,10 @@ layout: post
 permalink: /Algorithms/BubbleSort
 ---
 
+2020.7.31
+<br/>
+<br/>
+
 # BubbleSort  
 <br/>
   
@@ -37,7 +41,5 @@ int main(void){
 }
 ```
 
-<br/>
-<br/>
-2020.7.31
+
 

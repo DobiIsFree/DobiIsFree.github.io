@@ -4,6 +4,10 @@ layout: post
 permalink: /Algorithms/SelectionSort
 ---
 
+2020.7.31
+<br/>
+<br/>
+
 ## SelectionSort  
 <br/>
   
@@ -36,7 +40,3 @@ int main(void){
 
 ## 시간복잡도
 
-
-<br/>
-<br/>
-2020.7.31

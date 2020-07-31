@@ -4,6 +4,10 @@ layout: post
 permalink: /Algorithms/InsertionSort
 ---
 
+2020.7.31
+<br/>
+<br/>
+
 ## InsertionSort 
 <br/>
   
@@ -35,7 +39,3 @@ int main(void){
     } 
 }
 ```
-
-<br/>
-<br/>
-2020.7.31
