@@ -4,7 +4,7 @@ layout: post
 permalink: /Algorithms/BubbleSort
 ---
 
-# BubbleSort
+# BubbleSort  
 
 옆에 있는 값과 비교해서 더 작은 값을 앞으로 보내기
 
@@ -14,7 +14,7 @@ permalink: /Algorithms/BubbleSort
 
 시간 복잡도는 선택정렬과 동일하다
 
-'''
+```
 #include<stdio.h>
 
 int main(void){
@@ -33,5 +33,5 @@ int main(void){
         printf(" %d", array[i]);
     }    
 }
-'''
+```
 
