@@ -1,5 +1,5 @@
 ---
-title: /DeepLearning
+title: DeepLearning
 layout: page
 permalink: /DeepLearning/Main
 ---

@@ -1,5 +1,5 @@
 ---
-title: /Web
+title: Web
 layout: page
 permalink: /Web/Main
 ---
