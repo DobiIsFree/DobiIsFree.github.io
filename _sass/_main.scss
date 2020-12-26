@@ -1,13 +1,13 @@
 @font-face {
-    font-family: 'DOSMyungjo';
-    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_eight@1.0/DOSMyungjo.woff') format('woff');
+    font-family: 'Cafe24Oneprettynight';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_twelve@1.1/Cafe24Oneprettynight.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 body {
 	background: #008082;
-	font-family: DOSMyungjo, sans-serif, serif, monospace;
+	font-family: sans-serif, serif, monospace;
 	font-size: 13px;
 }
 
@@ -194,6 +194,7 @@ ul.topbar {
 	}
 }
 .post_content {
+	font-family: Cafe24Oneprettynight, sans-serif, serif, monospace;
 	position: relative;
 	width: 98.5%;
 	min-height: 600px;
