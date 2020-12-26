@@ -1,6 +1,13 @@
+@font-face {
+    font-family: 'JeongsogeonhaeR';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/OTJeongsogeonhaeRA.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 body {
 	background: #008082;
-	font-family: sans-serif, serif, monospace;
+	font-family: JeongsogeonhaeR, sans-serif, serif, monospace;
 	font-size: 13px;
 }
 
