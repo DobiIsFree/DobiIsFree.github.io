@@ -1,21 +1,25 @@
-# Example Site settings
+permalink: /:year:month:day/:title
+url: #Your url here
+baseurl: /project
 
-#google_analytics: UA-NNNNNNNN-N
+# variables
+name: Your Site Name
+description: Your description here
+google_verification: null
 
-header_pages:
-  - index.md
-  # - 2019.md
-  - 2020.md
-  - about.md
 
-#footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+# File management
+include: [".htaccess"]
+exclude: ["README.md", "LICENSE"]
 
-style: light # dark (default) or light
-#listen_for_clients_preferred_style: true # true or false (default)
+# Sass
+sass:
+  style: :compressed
+  sass_dir: _sass
 
-plugins:
-  - jekyll-seo-tag
-
-# Build settings
-remote_theme : b2a3e8/jekyll-theme-console
-
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    disable : true
